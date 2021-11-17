@@ -1,8 +1,8 @@
-- 👋 Hello ladies and gentlemen, I’m @TheGrayNerd2048 (aka The Gray Nerd or M Bubbles Brocky @ Discord).
+- 👋 Hello ladies and gentlemen, I’m @TheGrayNerd2048 (aka Bubbles Brocky on Discord).
 - 👀 I’m interested in some web codes and open source fonts.
-- 🌱 I’m currently learning nothing, hopefully there's something in the future...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning coding web apps, and also drawing a thing.
+- 💞️ I’m looking to collaborate on ... (not planned yet)
+- 📫 How to reach me? You can talk with me on Twitter or Discord. I'll tell you on Twitter DMs.
 
 <!---
 TheGrayNerd2048/TheGrayNerd2048 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
