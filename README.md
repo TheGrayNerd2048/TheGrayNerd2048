@@ -1,4 +1,4 @@
-- 👋 Hello ladies and gentlemen, I’m @TheGrayNerd2048 (aka Bubbles Brocky on Discord).
+- 👋 Hello ladies and gentlemen, I’m @TheGrayNerd2048 (aka Indry Bubbles on some social media).
 - 👀 I’m interested in some web codes and open source fonts.
 - 🌱 I’m currently learning coding web apps, and also drawing a thing.
 - 💞️ I’m looking to collaborate on ... (not planned yet)
